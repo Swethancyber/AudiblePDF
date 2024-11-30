@@ -25,5 +25,5 @@ def read_pdf(file_path):
 
 if __name__ == "__main__":
     # Specify the path to your PDF file
-    book_path = 'C:/Users/sweth/AppData/Local/Microsoft/Windows/INetCache/IE/JG6AIU73/SkillsScoreCard[1].pdf'  # For Windows
+    book_path = 'C:/Users/username.pdf(Enter the path of the pdf file)'  # For Windows
     read_pdf(book_path)
