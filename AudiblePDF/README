@@ -1,0 +1,55 @@
+🧪 Enhanced PDF Reader — Temporary Documentation
+This app allows users to load a PDF file and hear its contents read aloud using customizable voice settings and a friendly graphical interface built with Tkinter.
+
+📌 Core Features
+✅ PDF-to-Speech using pyttsx3
+
+✅ Multithreaded reading with cancellation support
+
+✅ Custom voice selection, rate, and volume controls
+
+✅ Progress tracking during reading
+
+✅ Tkinter GUI with scrollable PDF text display
+
+🔧 Dependencies
+Install these Python libraries:
+
+python
+pip install pyttsx3
+pip install pdfplumber
+Tkinter is typically included in standard Python installations.
+
+🚀 How to Use
+Open your Python IDE (IDLE, Thonny, etc.)
+
+Copy and run the pdf_reader.py script
+
+Use the GUI to:
+
+Select a PDF via 📂 Open PDF
+
+Adjust reading speed, volume, and voice
+
+Cancel reading anytime 🚫
+
+📌 Development Notes
+Threading prevents the UI from freezing during long reads.
+
+Uses pdfplumber for reliable text extraction.
+
+stop_event provides graceful shutdown of speech threads.
+
+Voice options depend on system-installed TTS voices.
+
+🧩 Optional Enhancements (Future Scope)
+Save audio as .mp3 or .wav
+
+OCR integration for scanned PDFs
+
+Highlight text as it's spoken
+
+Add EPUB/DOCX support
+
+Let me know if you'd like this converted into a full README later, or want me to whip up a logo or badge to give it a professional look! 😎📘
+
