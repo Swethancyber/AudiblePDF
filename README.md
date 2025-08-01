@@ -45,4 +45,3 @@ Use the GUI to:
 
 
 > ⚠️ **If any error occurs, don't forget to _submit an issue_ with the error message!**
-
