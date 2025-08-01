@@ -6,7 +6,7 @@
 
   #### This app allows users to load a PDF file and hear its contents read aloud using customizable voice settings and a user-friendly GUI built with Tkinter.
 
-![Logo](https://github.com/Swethancyber/AudiblePDF/blob/main/image/Screenshot%202025-08-01%20174203.png)
+![Logo](image/AudiblePDF.png)
 
 
 
