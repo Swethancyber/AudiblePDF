@@ -21,11 +21,11 @@
   ## 🔧 Dependencies
 
 #### Install the required Python libraries:
-
-      - `pip install pyttsx3`
-      - `pip install pdfplumber`
-      - `pip install Tkinterer`
-
+```
+      pip install pyttsx3
+      pip install pdfplumbe
+      pip install Tkinterer
+```
 # 🚀 How to Use
 #### Open your Python IDE (IDLE, Vs-code, etc.)
 
